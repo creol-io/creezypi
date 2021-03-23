@@ -1,6 +1,6 @@
 [submodule "creol-eth"]
 	path = creol-eth
-	url = https://github.com/JUDOKICK/creol-eth.git
+	url = https://github.com/creol-io/creol-eth.git
 [submodule "KiTools"]
 	path = KiTools
 	url = https://github.com/KiraleTech/KiTools.git

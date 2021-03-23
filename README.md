@@ -56,3 +56,5 @@ that messages coming from other nodes in the network are in fact signed by devic
 Current network topology is as designed as below
 
 ![Creol-Cartesi Diagram](https://github.com/creol-io/creezypi/blob/main/CreolDiagram.PNG)
+
+For more info consult the [Creol Cartesi Prototype](https://github.com/creol-io/creol-cartesi-prototype)
